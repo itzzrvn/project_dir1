@@ -15,6 +15,7 @@ int main () {
     printf ("Name: %s\n", d);
     printf ("Average: %.2lf\n", e);
     printf ("sample changes");
+    printf ("sample changes 1");
     return 0;
         
 }
