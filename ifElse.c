@@ -1,0 +1,17 @@
+//OLEDAN, RAVEN LANCE M. DIT 1-2
+#include <stdio.h>
+
+int main (){
+    int a;
+
+    printf("Enter a number: ");
+    scanf("%d", &a);
+
+    if (a % 2 == 0){
+        printf("%d is even.\n", a);
+    }else {
+        printf("%d is odd. \n", a);
+    }
+    return 0;
+
+}
