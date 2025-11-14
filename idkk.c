@@ -16,6 +16,7 @@ int main () {
     printf ("Average: %.2lf\n", e);
     printf ("sample changes");
     printf ("sample changes 1");
+    printf ("sample changes dev branch");
     return 0;
         
 }
